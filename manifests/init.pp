@@ -12,5 +12,6 @@
 #
 class openvmtools {
 
+  include openvmtools::install
 
 }
